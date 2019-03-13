@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class abc here.
+ * How to write you abc's
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Fiona Fischer
+ * @version Today
  */
 public class abc
 {
